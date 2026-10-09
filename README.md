@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey! I'm Gabriel 👋
 
-<!--
-**gabzz07/gabzz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student interested in software development and technology.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning web development and software engineering fundamentals.
+* 🏋️ Building **Fit Legacy**, a fitness app focused on workouts, progress tracking, and training data.
+* 🎯 Working to improve my programming skills by building real projects.
+* 🌎 Interested in technology and opportunities in the international market.
+
+## Featured project
+
+### Fit Legacy
+
+A fitness application designed to help users manage workouts, track performance, and follow their progress over time.
+
+*Currently in development.*
+
+## Technologies
+
+* HTML
+* CSS
+* JavaScript
+* React
+* TypeScript
+* Git and GitHub
+
+---
